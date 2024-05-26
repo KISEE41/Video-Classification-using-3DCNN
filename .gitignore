@@ -162,5 +162,5 @@ cython_debug/
 # ignoring directories
 checkpoints/
 Dataset/
-Ligtning_logs/
+lightning_logs/*
 models/
